@@ -1,0 +1,2 @@
+/bin/ar qc libSoundAnalyzer.a  CMakeFiles/SoundAnalyzer.dir/src/recorder.cpp.o CMakeFiles/SoundAnalyzer.dir/src/processor.cpp.o
+/bin/ranlib libSoundAnalyzer.a

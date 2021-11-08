@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/pi/LutziLEDProject/build",
+  "command": "/bin/g++-8   -I/home/pi/LutziLEDProject/rpi_ws281x -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters   -pthread -g   -fpermissive -std=c++17 -o CMakeFiles/Lutzi.dir/main.cpp.o -c /home/pi/LutziLEDProject/main.cpp",
+  "file": "/home/pi/LutziLEDProject/main.cpp"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/build",
+  "command": "/bin/g++-8   -I/home/pi/LutziLEDProject/rpi_ws281x -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters   -pthread -g   -fpermissive -std=c++17 -o CMakeFiles/Lutzi.dir/setup.cpp.o -c /home/pi/LutziLEDProject/setup.cpp",
+  "file": "/home/pi/LutziLEDProject/setup.cpp"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/build",
+  "command": "/bin/gcc-8  -I/home/pi/LutziLEDProject/rpi_ws281x -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters  -g   -fpermissive -o CMakeFiles/Lutzi.dir/rpi_ws281x/dma.c.o   -c /home/pi/LutziLEDProject/rpi_ws281x/dma.c",
+  "file": "/home/pi/LutziLEDProject/rpi_ws281x/dma.c"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/build",
+  "command": "/bin/gcc-8  -I/home/pi/LutziLEDProject/rpi_ws281x -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters  -g   -fpermissive -o CMakeFiles/Lutzi.dir/rpi_ws281x/pwm.c.o   -c /home/pi/LutziLEDProject/rpi_ws281x/pwm.c",
+  "file": "/home/pi/LutziLEDProject/rpi_ws281x/pwm.c"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/build",
+  "command": "/bin/gcc-8  -I/home/pi/LutziLEDProject/rpi_ws281x -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters  -g   -fpermissive -o CMakeFiles/Lutzi.dir/rpi_ws281x/pcm.c.o   -c /home/pi/LutziLEDProject/rpi_ws281x/pcm.c",
+  "file": "/home/pi/LutziLEDProject/rpi_ws281x/pcm.c"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/build",
+  "command": "/bin/gcc-8  -I/home/pi/LutziLEDProject/rpi_ws281x -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters  -g   -fpermissive -o CMakeFiles/Lutzi.dir/rpi_ws281x/rpihw.c.o   -c /home/pi/LutziLEDProject/rpi_ws281x/rpihw.c",
+  "file": "/home/pi/LutziLEDProject/rpi_ws281x/rpihw.c"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/build",
+  "command": "/bin/gcc-8  -I/home/pi/LutziLEDProject/rpi_ws281x -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters  -g   -fpermissive -o CMakeFiles/Lutzi.dir/rpi_ws281x/ws2811.c.o   -c /home/pi/LutziLEDProject/rpi_ws281x/ws2811.c",
+  "file": "/home/pi/LutziLEDProject/rpi_ws281x/ws2811.c"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/build",
+  "command": "/bin/gcc-8  -I/home/pi/LutziLEDProject/rpi_ws281x -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters  -g   -fpermissive -o CMakeFiles/Lutzi.dir/rpi_ws281x/mailbox.c.o   -c /home/pi/LutziLEDProject/rpi_ws281x/mailbox.c",
+  "file": "/home/pi/LutziLEDProject/rpi_ws281x/mailbox.c"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/build/SoundLib",
+  "command": "/bin/g++-8   -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters   -pthread -pthread -g   -std=c++17 -o CMakeFiles/SoundAnalyzer.dir/src/recorder.cpp.o -c /home/pi/LutziLEDProject/SoundLib/src/recorder.cpp",
+  "file": "/home/pi/LutziLEDProject/SoundLib/src/recorder.cpp"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/build/SoundLib",
+  "command": "/bin/g++-8   -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters   -pthread -pthread -g   -std=c++17 -o CMakeFiles/SoundAnalyzer.dir/src/processor.cpp.o -c /home/pi/LutziLEDProject/SoundLib/src/processor.cpp",
+  "file": "/home/pi/LutziLEDProject/SoundLib/src/processor.cpp"
+}
+]

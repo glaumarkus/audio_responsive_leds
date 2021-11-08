@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../SoundLib/include/recorder.h
+iostream
+-
+vector
+-
+cstring
+-
+cmath
+-
+cstdlib
+-
+limits
+-
+string
+-
+thread
+-
+atomic
+-
+algorithm
+-
+alsa/asoundlib.h
+-
+tsqueue.h
+../SoundLib/include/tsqueue.h
+
+../SoundLib/include/tsqueue.h
+queue
+-
+mutex
+-
+condition_variable
+-
+
+/home/pi/LutziLEDProject/SoundLib/src/recorder.cpp
+recorder.h
+-
+

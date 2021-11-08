@@ -1,0 +1,352 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "SoundLib",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "SoundLib",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lutzi",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "SoundAnalyzer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Continuous::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-Continuous-Debug-792de3f88d08a7049a9c.json",
+					"name" : "Continuous",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ContinuousBuild::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ContinuousBuild-Debug-61b537db616e264d23db.json",
+					"name" : "ContinuousBuild",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ContinuousConfigure::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ContinuousConfigure-Debug-999a533b0a3699c9522d.json",
+					"name" : "ContinuousConfigure",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ContinuousCoverage::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ContinuousCoverage-Debug-3d68ea414abd4d495004.json",
+					"name" : "ContinuousCoverage",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ContinuousMemCheck::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ContinuousMemCheck-Debug-23e547b35536bb176bb6.json",
+					"name" : "ContinuousMemCheck",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ContinuousStart::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ContinuousStart-Debug-b85536d553a691abab2a.json",
+					"name" : "ContinuousStart",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ContinuousSubmit::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ContinuousSubmit-Debug-70c41716ae7135c49a98.json",
+					"name" : "ContinuousSubmit",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ContinuousTest::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ContinuousTest-Debug-64bd797379d7070e54b6.json",
+					"name" : "ContinuousTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ContinuousUpdate::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ContinuousUpdate-Debug-1438a38475da10e5530e.json",
+					"name" : "ContinuousUpdate",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Experimental::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-Experimental-Debug-0ee2622b6290c1d8e733.json",
+					"name" : "Experimental",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ExperimentalBuild::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ExperimentalBuild-Debug-35752f09553d23b4277d.json",
+					"name" : "ExperimentalBuild",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ExperimentalConfigure::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ExperimentalConfigure-Debug-d96782872b375cd68973.json",
+					"name" : "ExperimentalConfigure",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ExperimentalCoverage::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ExperimentalCoverage-Debug-cdc67a4292f60dce07dc.json",
+					"name" : "ExperimentalCoverage",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ExperimentalMemCheck::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ExperimentalMemCheck-Debug-6cca5ec766861a69082c.json",
+					"name" : "ExperimentalMemCheck",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ExperimentalStart::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ExperimentalStart-Debug-e4cf0cf681103c03c696.json",
+					"name" : "ExperimentalStart",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ExperimentalSubmit::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ExperimentalSubmit-Debug-7b48391b84364520f734.json",
+					"name" : "ExperimentalSubmit",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ExperimentalTest::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ExperimentalTest-Debug-c62d95c3e266a5279a23.json",
+					"name" : "ExperimentalTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "ExperimentalUpdate::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-ExperimentalUpdate-Debug-7528f786a280a65748ff.json",
+					"name" : "ExperimentalUpdate",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lutzi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lutzi-Debug-85374c8877923521197f.json",
+					"name" : "Lutzi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Nightly::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-Nightly-Debug-069b7942d6baa83c18a0.json",
+					"name" : "Nightly",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NightlyBuild::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-NightlyBuild-Debug-723f1b5c659baa82a973.json",
+					"name" : "NightlyBuild",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NightlyConfigure::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-NightlyConfigure-Debug-b755f9b655d91384e6fa.json",
+					"name" : "NightlyConfigure",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NightlyCoverage::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-NightlyCoverage-Debug-962079c5ec5ac1474d15.json",
+					"name" : "NightlyCoverage",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NightlyMemCheck::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-NightlyMemCheck-Debug-ac2f8a7b5193e631abba.json",
+					"name" : "NightlyMemCheck",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NightlyMemoryCheck::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-NightlyMemoryCheck-Debug-89ca1764b7f6c6085409.json",
+					"name" : "NightlyMemoryCheck",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NightlyStart::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-NightlyStart-Debug-cac4d352ab3dafd8b250.json",
+					"name" : "NightlyStart",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NightlySubmit::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-NightlySubmit-Debug-93adeb219d53205ddfc6.json",
+					"name" : "NightlySubmit",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NightlyTest::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-NightlyTest-Debug-65f17a24f44eb0fab59d.json",
+					"name" : "NightlyTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "NightlyUpdate::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-NightlyUpdate-Debug-30b76196bbfa549bc2c0.json",
+					"name" : "NightlyUpdate",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "SoundAnalyzer::@4a3bfb0daecaf92b3400",
+					"jsonFile" : "target-SoundAnalyzer-Debug-1c6a943c9e036c228b77.json",
+					"name" : "SoundAnalyzer",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pi/LutziLEDProject/build",
+		"source" : "/home/pi/LutziLEDProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

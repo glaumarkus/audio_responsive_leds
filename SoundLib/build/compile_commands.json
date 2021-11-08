@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pi/LutziLEDProject/SoundLib/build",
+  "command": "/bin/g++-8   -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters   -pthread -g   -std=c++17 -o CMakeFiles/SoundAnalyzer.dir/src/recorder.cpp.o -c /home/pi/LutziLEDProject/SoundLib/src/recorder.cpp",
+  "file": "/home/pi/LutziLEDProject/SoundLib/src/recorder.cpp"
+},
+{
+  "directory": "/home/pi/LutziLEDProject/SoundLib/build",
+  "command": "/bin/g++-8   -I/home/pi/LutziLEDProject/SoundLib/include -I/home/pi/LutziLEDProject/SoundLib/DSP-Cpp-filters   -pthread -g   -std=c++17 -o CMakeFiles/SoundAnalyzer.dir/src/processor.cpp.o -c /home/pi/LutziLEDProject/SoundLib/src/processor.cpp",
+  "file": "/home/pi/LutziLEDProject/SoundLib/src/processor.cpp"
+}
+]
